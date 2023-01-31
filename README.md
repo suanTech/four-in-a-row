@@ -10,9 +10,9 @@ Four in a row game created with Teamtreehouse
 ### Takeaways
 #### What I learned
 * What is OOP and how to implement it in js
-* Build logic to find 4 in a row in 2d array
-  - using nested for loop to loop through its vertical, horizontal, diagonal direction
 * Brainstorming app architecture 
   - identifying different classes, components, handling game state, game logic
+* To build logic to find 4 in a row in 2d array
+  - using nested for loop to loop through its vertical, horizontal, diagonal direction
 #### What next ?
 * Create a restart button to reset all and play again
